@@ -2,7 +2,7 @@
 
 *Stupid-Simple Authentication*
 
-This code is not my intellectual.It belongs to the awesome dude @https://www.youtube.com/watch?v=i7of02icPyQ
+This code is not my intellectual property.It belongs to the awesome dude @https://www.youtube.com/watch?v=i7of02icPyQ
 This is simply for my enlightment
 
 
