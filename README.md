@@ -2,14 +2,8 @@
 
 *Stupid-Simple Authentication*
 
-This project contains code which shows how to implement your own user
-authentication in a Node.js web app with MongoDB.
-
-This project is meant to go along with the talk I gave at Twilio Signal 2017.
-The talk walks you through how authentication works, from the ground up.
-
-I'll update this README with a link to the finished talk recording and slides
-once they are live.
+This code is not my intellectual.It belongs to the awesome dude @https://www.youtube.com/watch?v=i7of02icPyQ
+This is simply for my enlightment
 
 
 ## Installation
